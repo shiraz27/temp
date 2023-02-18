@@ -1,7 +1,7 @@
 {
 	"name": "temprnb",
 	"version": "0.0.9",
-	"description": "A React Native project with Eva Design System, React Navigation, and other popular libraries",
+	"description": "A React Native project with Eva Design System, React Navigation, and other popular libraries.",
 	"scripts": {
 		"test": "exit 0"
 	},
